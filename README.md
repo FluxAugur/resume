@@ -26,8 +26,8 @@ Turning obstacle and challenges into opportunities and success!
 Developed mobile application on Android for use in hospital/long-term care facilities. Guided implementation and adjustment of policies and procedures towards FDA/UL compliance in anticipation of product launch.
 
 ### Chief Architect
-**Synaptian, Inc.** 	
-*June 2014 – April 2015* 	
+**Synaptian, Inc.**  
+*June 2014 – April 2015*. 
 *Johnson City, Tennessee*
 
 Designed and developed complex web applications an supporting, cloud-based infrastructure for business-to-business and mass-market end-users, using the most current relevant technologies (Ruby on Rails, AWS, PostgreSQL, Meteor.js, Laravel, and various others).
