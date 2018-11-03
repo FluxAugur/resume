@@ -218,3 +218,69 @@ Provided IT services for Child Life program. Provided support/repair/maintenance
 *Ann Arbor, Michigan*
 
 Taught/assisted in the teaching of multiple Hour of Code events during Computer Science Week 2015 & 2016, at all educational levels. Presented/lead discussions on a diverse spectrum of computer science topics, from introductory concepts to career opportunities, to being a freelance engineer/developer, to teaching for attendees at all educational levels.
+
+## Accomplishments
+### Courses
+**East Tennessee State University** 	
+*Graduate Courses* 	
+*Johnson City, Tennessee*
+
+- CSCI 5019: Supervised Teaching
+- CSCI 5150: Distributed Systems
+- CSCI 5200: Software Systems Engineering
+- CSCI 5220: Software Verification and Validation
+- CSCI 5230: Software Project Management
+- CSCI 5300: Software Design
+- CSCI 5460: Network and Information Security
+- CSCI 5520:  Research Methods
+- CSCI 5550: Directed Research 1
+- CSCI 5620: Analysis of Algorithms
+- CSCI 5710: E-commerce Implementation
+- CSCI 5910: Software Development Project 1
+- CSCI 5920: Software Development Project 2
+- CSCI 5930: Software Development Project 3
+- CSCI 5957: C# for Programmers
+- CSCI 5957: Competetive Programming
+- CSCI 5990: Reading and Research
+- GRAD 5110: Teaching Pedagogy
+
+### Languages
+- French, elementary proficiency
+- German, elementary proficiency
+- Spanish, elementary proficiency
+
+### Certifications
+- AWS Business Professional, February 2014
+- AWS Technical Professional, February 2014
+
+### Projects
+**East Tennessee State University** 	
+*December 2010 – August 2012* 	
+*Johnson City, Tennessee*
+
+The International Speech Assessment (ISA) capstone project was created to develop a prototype software application (using Java) to allow speech language pathologists (SLPs) to assess the developmental speech language capabilities/needs of children in a variety of languages.
+
+The ISA project was a collaboration of East Tennessee State University (ETSU), Johnson City, Tennessee, United States and Doctor Sharynne McLeod, Charles Sturt University, Bathurst, Australia.
+
+My function on the project team was handling the bulk of the software design (MVC) and development (lead programmer).
+
+### Publications
+**Freeform Games, LLC** 	
+*November 2012*
+
+[Harley Garrick](http://www.freeformgames.com/game_details.php?29), school groundskeeper: an extra character for Freeform Games' Spellbound.
+
+### Tests
+**Myers-Briggs Type Indicator (MBTI)** 	
+*November 2015*
+
+ENTP-T   
+Quick, ingenious, stimulating, alert, and outspoken. Resourceful in solving new and challenging problems. Adept at generating conceptual possibilities and then analyzing them strategically. Good at reading other people. Bored by routine, will seldom do the same thing the same way, apt to turn to one new interest after another.
+
+Identity (The fifth symbol/letter, after the hyphen)
+> The Identity aspect underpins all others, showing how confident we are in our abilities and decisions:
+> Assertive (-A) individuals are self-assured, even-tempered and resistant to stress. They refuse to worry too much and do not push themselves too hard when it comes to achieving goals.
+> Turbulent (-T) individuals are self-conscious and sensitive to stress. They are likely to experience a wide range of emotions and to be success-driven, perfectionistic and eager to improve.
+
+### Organizations
+Member, Association of Computing Machinery (ACM)
