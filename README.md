@@ -8,19 +8,19 @@ Problem solver. Geek. Ideaveloper. Code artist. Storyteller. Believer in automat
 Focused on developing solutions to interesting and diverse technical and intellectual problems. Loves to flex mental muscles. Seeks (and thrives) in any environment that encourages devising new approaches, new ideas, and new projects, and pushes the limits of my creativity.
 
 > Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of 'crack-pot'​ than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost.  
--- <cite>[Thomas J. Waston](https://www.quotes.net/quote/21766)</cite>
+— <cite>[Thomas J. Waston](https://www.quotes.net/quote/21766)</cite>
 
 ## Experience
 ### Freelance Software Engineer/Developer
-**Various Employers**  
-*September 2015 – Present*  
+**Various Employers** 	
+*September 2015 – Present* 	
 *Johnson City, Tennessee*
 
 Turning obstacle and challenges into opportunities and success!
 
 ### Senior Software Engineer
-**Eloquence Communications, Inc.**  
-*April 2015 – August 2015*  
+**Eloquence Communications, Inc.** 	
+*April 2015 – August 2015* 	
 *Ann Arbor, Michigan*
 
 Developed mobile application on Android for use in hospital/long-term care facilities. Guided implementation and adjustment of policies and procedures towards FDA/UL compliance in anticipation of product launch.
@@ -170,7 +170,7 @@ Taught computer science and mathematics on middle and high school levels.
 
 Managed all aspects of daily activities for multiple specialty (gaming, non-video games) retail stores.
 
-### Guest Services Director -- Front Desk
+### Guest Services Director — Front Desk
 **Comfort Inn** 	
 *December 1996 – March 1997* 	
 *Sylva, North Carolina*
@@ -274,7 +274,8 @@ My function on the project team was handling the bulk of the software design (MV
 **Myers-Briggs Type Indicator (MBTI)** 	
 *November 2015*
 
-ENTP-T   
+ENTP-T
+
 Quick, ingenious, stimulating, alert, and outspoken. Resourceful in solving new and challenging problems. Adept at generating conceptual possibilities and then analyzing them strategically. Good at reading other people. Bored by routine, will seldom do the same thing the same way, apt to turn to one new interest after another.
 
 Identity (The fifth symbol/letter, after the hyphen)
