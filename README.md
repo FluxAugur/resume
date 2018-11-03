@@ -27,202 +27,202 @@ Developed mobile application on Android for use in hospital/long-term care facil
 
 ### Chief Architect
 **Synaptian, Inc.**  
-*June 2014 – April 2015*. 
+*June 2014 – April 2015*  
 *Johnson City, Tennessee*
 
 Designed and developed complex web applications an supporting, cloud-based infrastructure for business-to-business and mass-market end-users, using the most current relevant technologies (Ruby on Rails, AWS, PostgreSQL, Meteor.js, Laravel, and various others).
 
 ### Ruby on Rails, iOS, and PHP Developer
-**Synaptian, Inc.** 	
-*June 2013 – April 2015* 	
+**Synaptian, Inc.**  
+*June 2013 – April 2015*  
 *Johnson City, Tennessee*
 
 Developed web and mobile applications for both businesses and mass-market end-users, using the most current relevant technologies (Ruby on Rails, iOS, and various others).
 
 ### General Manager
-**Synaptian, Inc.** 	
-*April 2013 – June 2014* 	
+**Synaptian, Inc.**  
+*April 2013 – June 2014*  
 *Johnson City, Tennessee*
 
 Managed all aspects of a startup software development company.
 
 ### Instructor (Graduate Assistant)
-**East Tennessee State University** 	
-**Department of Computing** 	
-*August 2010 – August 2012* 	
+**East Tennessee State University**  
+**Department of Computing**  
+*August 2010 – August 2012*  
 *Johnson City, Tennessee*
 
 Taught CSCI-1100: Using Information Technology course (focused on MS Windows 7 & MS Office) to 400+ students. Redesigned course information distribution to better leverage capabilities of ETSU Desire2Learn student course portal.
 
 ### Web Developer (Student Worker)
-**East Tennessee State University** 	
-**Emerging Technology Center** 	
-*August 2009 – August 2010* 	
+**East Tennessee State University**  
+**Emerging Technology Center**  
+*August 2009 – August 2010*  
 *Johnson City, Tennessee*
 
 Developed various web applications using JavaScript, XHTML, PHP using the Zend Framework, and CSS.
 
 ### Assistant Store Manager
-**Mountain Empire Oil Company** 	
-*January 2008 – September 2009* 	
+**Mountain Empire Oil Company**  
+*January 2008 – September 2009*  
 *Johnson City, Tennessee*
 
 Handled all aspects of daily retail convenience store (BP gas station) daily operations.
 
 ### Office Assistant (Student Worker)
-**East Tennessee State University** 	
-**Advisement Resources Career Center** 	
-**Adult, Commuter, and Transfer Services** 	
-*August 2008 – August 2009* 	
+**East Tennessee State University**  
+**Advisement Resources Career Center**  
+**Adult, Commuter, and Transfer Services**  
+*August 2008 – August 2009*  
 *Johnson City, Tennessee*
 
 Assisted students in locating and taking advantage of appropriate resources.
 
 ### Site Administrator (Student Worker)
-**East Tennessee State University** 	
-**Student Organization Resource Center** 	
-*August 2007 – January 2008* 	
+**East Tennessee State University**  
+**Student Organization Resource Center**  
+*August 2007 – January 2008*  
 *Johnson City, Tennessee*
 
 Administered and managed the campus-wide student organization resource site and underlying database. 
 
 ### Web Developer and Technical Support (Independent Contractor)
-**Abingdon Computer Services** 	
-*September 2006 – January 2008* 	
+**Abingdon Computer Services**  
+*September 2006 – January 2008*  
 *Abingdon, Virginia*
 
 Designed & developed web sites for local businesses. Performed repair & maintenance on personal computers (desktops & laptops) for local customers. Designed and implemented networking solutions for local clients (business & residential).
 
 ### Assistant Store Manager
-**The Electronic Connection** 	
-*September 2006 – July 2007* 	
+**The Electronic Connection**  
+*September 2006 – July 2007*  
 *Abingdon, Virginia*
 
 Handled all aspects of daily retail (Radio Shack) electronics sales and customer service.
 
 ### Owner
-**Silicon Dragon** 	
-*November 2004 – June 2006* 	
+**Silicon Dragon**  
+*November 2004 – June 2006*  
 *Houston, Texas*
 
 Managed all aspects of PC maintenance/repair & IT startup.
 
 ### Database Developer
-**PUBSCO, Inc.** 	
-*October 2004 – May 2005* 	
+**PUBSCO, Inc.**  
+*October 2004 – May 2005*  
 *Houston, Texas*
 
 Designed & developed a telemarketing sales management database using MS Access.
 
 ### IT and Systems Installer (Independent Contractor)
-**Bari Management** 	
-*July 2004 – September 2004* 	
+**Bari Management**  
+*July 2004 – September 2004*  
 *Houston, Texas*
 
 Planning, installations, and integration of complete client/server POS system for major fast food franchise (Burger King).
 
 ### Inside Sales Manager
-**Coverall, Inc.** 	
-*March 2004 – July 2004* 	
+**Coverall, Inc.**  
+*March 2004 – July 2004*  
 *Houston, Texas*
 
 Managed all aspects of inside sales team for millian dollar commercial phone solicitation call center.
 
 ### Inside Sales Consultant
-**Webxites** 	
-*January 2004 – March 2004* 	
+**Webxites**  
+*January 2004 – March 2004*  
 *Houston, Texas*
 
 Achieved and maintained top company quotas in commissioned small business website sales.
 
 ### Manager
-**Etsell, Inc.** 	
-*January 2001 – March 2003* 	
+**Etsell, Inc.**  
+*January 2001 – March 2003*  
 *Various*
 
 Managed all aspects of fund-raising (Shriner's Circus) phone solicitation call center. Locations included Johnson City, TN, Raleigh, NC, Fort Myers, FL, Fort Worth, TX, and Houston, TX.
 
 ### Sales Counselor
-**Circuit City, Inc.** 	
-*July 2000 – April 2001* 	
+**Circuit City, Inc.**  
+*July 2000 – April 2001*  
 *Kingsport, Tennessee*
 
 Achieved and maintained top regional percentiles in commissioned retail sales (personal computers and electronics).
 
 ### Scheduler/Planner and Network Asministrator
-**Presspart, Inc.** 	
-*March 1998 – March 2000* 	
+**Presspart, Inc.**  
+*March 1998 – March 2000*  
 *Cary, North Carolina*
 
 Supervised all aspects of a 40-person manufacturing plant workforce to consistently meet and exceed production goals. Planned, installed, amd administered 25-station/1-server LAN.
 
 ### Interim Teacher
-**Kerr-Vance Academy** 	
-*October 1997 – December 1997* 	
+**Kerr-Vance Academy**  
+*October 1997 – December 1997*  
 *Henderson, North Carolina*
 
 Taught computer science and mathematics on middle and high school levels.
 
 ### Store Manager
-**Games Galore, Inc.** 	
-*April 1997 – October 1997* 	
+**Games Galore, Inc.**  
+*April 1997 – October 1997*  
 *Raleigh, North Carolina*
 
 Managed all aspects of daily activities for multiple specialty (gaming, non-video games) retail stores.
 
 ### Guest Services Director — Front Desk
-**Comfort Inn** 	
-*December 1996 – March 1997* 	
+**Comfort Inn**  
+*December 1996 – March 1997*  
 *Sylva, North Carolina*
 
 Supervised all aspects of customer lodging experience.
 
 ### Lab Instructor
-**North Carolina State University** 	
-*August 1994 – October 1996* 	
+**North Carolina State University**  
+*August 1994 – October 1996*  
 *Raleigh, North Carolina*
 
 Taught computer science (C++) in theory and practice on beginner and intermediate collegiate levels.
 
 ## Education
 ### Master of Science, Applied Computer Science
-**East Tennessee State University** 	
-*August 2010 – August 2012* 	
+**East Tennessee State University**  
+*August 2010 – August 2012*  
 *Johnson City, Tennessee*
 
 GPA: 3.259 	
 Member, Association of Computing Machinery (ACM)
 
 ### Bachelor of Science, Information Technology
-**East Tennessee State University** 	
-*August 2007 – May 2010* 	
+**East Tennessee State University**  
+*August 2007 – May 2010*  
 *Johnson City, Tennessee*
 
-GPA: 3.534 	
-Member, Association of Computing Machinery (ACM) 	
-President, Rainbow Alliance (now H.E.R.O.E.S., student advocacy organization for equality of all LGBTQ individuals and allies) 	
-Member, Gospel Choir 	
+GPA: 3.534  
+Member, Association of Computing Machinery (ACM)  
+President, Rainbow Alliance (now H.E.R.O.E.S., student advocacy organization for equality of all LGBTQ individuals and allies)  
+Member, Gospel Choir  
 Member, Buctainment
 
 ## Volunteering
 ### IT Support Volunteer
-**Niswonger Children's Hospital** 	
-*July 2007 – August 2012* 	
+**Niswonger Children's Hospital**  
+*July 2007 – August 2012*  
 *Johnson City, Tennessee*
 
 Provided IT services for Child Life program. Provided support/repair/maintenance of personal computers (donated patient laptops) not supported by hospital IT staff.
 
 ### Technical Volunteer
-**Code.org** 	
-*December 2015 – December 2015* 	
+**Code.org**  
+*December 2015 – December 2015*  
 *Ann Arbor, Michigan*
 
 Taught/assisted in the teaching of multiple Hour of Code events during Computer Science Week 2015 & 2016, at all educational levels. Presented/lead discussions on a diverse spectrum of computer science topics, from introductory concepts to career opportunities, to being a freelance engineer/developer, to teaching for attendees at all educational levels.
 
 ## Accomplishments
 ### Courses
-**East Tennessee State University** 	
-*Graduate Courses* 	
+**East Tennessee State University**  
+*Graduate Courses*  
 *Johnson City, Tennessee*
 
 - CSCI 5019: Supervised Teaching
@@ -254,8 +254,8 @@ Taught/assisted in the teaching of multiple Hour of Code events during Computer 
 - AWS Technical Professional, February 2014
 
 ### Projects
-**East Tennessee State University** 	
-*December 2010 – August 2012* 	
+**East Tennessee State University**  
+*December 2010 – August 2012*  
 *Johnson City, Tennessee*
 
 The International Speech Assessment (ISA) capstone project was created to develop a prototype software application (using Java) to allow speech language pathologists (SLPs) to assess the developmental speech language capabilities/needs of children in a variety of languages.
@@ -265,17 +265,16 @@ The ISA project was a collaboration of East Tennessee State University (ETSU), J
 My function on the project team was handling the bulk of the software design (MVC) and development (lead programmer).
 
 ### Publications
-**Freeform Games, LLC** 	
+**Freeform Games, LLC**  
 *November 2012*
 
 [Harley Garrick](http://www.freeformgames.com/game_details.php?29), school groundskeeper: an extra character for Freeform Games' Spellbound.
 
 ### Tests
-**Myers-Briggs Type Indicator (MBTI)** 	
+**Myers-Briggs Type Indicator (MBTI)**  
 *November 2015*
 
-ENTP-T
-
+ENTP-T  
 Quick, ingenious, stimulating, alert, and outspoken. Resourceful in solving new and challenging problems. Adept at generating conceptual possibilities and then analyzing them strategically. Good at reading other people. Bored by routine, will seldom do the same thing the same way, apt to turn to one new interest after another.
 
 Identity (The fifth symbol/letter, after the hyphen)
