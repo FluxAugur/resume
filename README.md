@@ -12,15 +12,15 @@ Focused on developing solutions to interesting and diverse technical and intelle
 
 ## Experience
 ### Freelance Software Engineer/Developer
-**Various Employers** 	
-*September 2015 – Present* 	
+**Various Employers**  
+*September 2015 – Present*  
 *Johnson City, Tennessee*
 
 Turning obstacle and challenges into opportunities and success!
 
 ### Senior Software Engineer
-**Eloquence Communications, Inc.** 	
-*April 2015 – August 2015* 	
+**Eloquence Communications, Inc.**  
+*April 2015 – August 2015*  
 *Ann Arbor, Michigan*
 
 Developed mobile application on Android for use in hospital/long-term care facilities. Guided implementation and adjustment of policies and procedures towards FDA/UL compliance in anticipation of product launch.
