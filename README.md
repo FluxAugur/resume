@@ -52,7 +52,7 @@ Managed all aspects of a startup software development company.
 *August 2010 – August 2012*  
 *Johnson City, Tennessee*
 
-Taught CSCI-1100: Using Information Technology course (focused on MS Windows 7 & MS Office) to 400+ students. Redesigned course information distribution to better leverage capabilities of ETSU Desire2Learn student course portal.
+Taught CSCI 1100: Using Information Technology course (focused on MS Windows 7 & MS Office) to 400+ students. Redesigned course information distribution to better leverage capabilities of ETSU Desire2Learn student course portal.
 
 ### Web Developer (Student Worker)
 **East Tennessee State University**  
