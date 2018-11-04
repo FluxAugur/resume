@@ -264,6 +264,21 @@ The ISA project was a collaboration of East Tennessee State University (ETSU), J
 
 My function on the project team was handling the bulk of the software design (MVC) and development (lead programmer).
 
+### Presentations
+**SouthEast Linux Fest (SELF) 2014**  
+*22 June 2014*  
+*Charlotte, North Carolina*
+
+[Becoming a Rails Developer: The Rest of the Story]()  
+A discussion of the skills necessary (beyond learning the language and framework) to become a successful Ruby on Rails developer.
+
+**Rails Rookies Bootcamp**  
+*13 April 2013*  
+*Johnson City, Tennessee*
+
+[Rails Rookies Bootcamp: Blogger]()
+A crash course in Ruby on Rails development guiding the participants from zero-to-fully functional blogging app. Presented in association with the East Tennessee State University student chapter of the Association for Computing Machinery (ACM).
+
 ### Publications
 **Freeform Games, LLC**  
 *November 2012*
