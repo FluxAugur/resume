@@ -291,7 +291,7 @@ A crash course in Ruby on Rails development guiding the participants from zero-t
 **Freeform Games, LLC**  
 *November 2012*
 
-[Harley Garrick](https://www.freeformgames.com/games/spellbound.php), school groundskeeper: an extra character for Freeform Games' Spellbound.
+[Harley Garrick](https://www.freeformgames.com/games/spellbound.php), school groundskeeper; an extra character for Freeform Games' Spellbound.
 
 ### Tests
 **Myers-Briggs Type Indicator (MBTI)**  
