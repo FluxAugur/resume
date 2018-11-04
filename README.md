@@ -11,12 +11,20 @@ Focused on developing solutions to interesting and diverse technical and intelle
 — <cite>[Thomas J. Waston](https://www.quotes.net/quote/21766)</cite>
 
 ## Experience
-### Freelance Software Engineer/Developer
+### Freelance Software Engineer/Developer (Independent Contractor)
 **Various Employers**  
 *September 2015 – Present*  
 *Johnson City, Tennessee*
 
-Turning obstacle and challenges into opportunities and success!
+Turning obstacles and challenges into opportunities for success!
+
+### Installer and Trainer
+**ENG Infotech**  
+*January 2017 – December 2017*  
+*Varied*
+
+What did I do?
+Locations included Quebec City, Quebec, Canada; Charleston, SC; Nashville, TN; and El Paso, TX. 
 
 ### Senior Software Engineer
 **Eloquence Communications, Inc.**  
@@ -138,9 +146,9 @@ Achieved and maintained top company quotas in commissioned small business websit
 ### Manager
 **Etsell, Inc.**  
 *January 2001 – March 2003*  
-*Various*
+*Varied*
 
-Managed all aspects of fund-raising (Shriner's Circus) phone solicitation call center. Locations included Johnson City, TN, Raleigh, NC, Fort Myers, FL, Fort Worth, TX, and Houston, TX.
+Managed all aspects of fund-raising (Shriner's Circus) phone solicitation call center. Locations included Knoxville, TN; Johnson City, TN; Raleigh, NC; Fort Myers, FL; Fort Worth, TX; and Houston, TX.
 
 ### Sales Counselor
 **Circuit City, Inc.**  
@@ -269,14 +277,14 @@ My function on the project team was handling the bulk of the software design (MV
 *22 June 2014*  
 *Charlotte, North Carolina*
 
-[Becoming a Rails Developer: The Rest of the Story]()  
+[Becoming a Rails Developer: The Rest of the Story](https://www.slideshare.net/NathanialMcConnell/self-47221681)  
 A discussion of the skills necessary (beyond learning the language and framework) to become a successful Ruby on Rails developer.
 
 **Rails Rookies Bootcamp**  
 *13 April 2013*  
 *Johnson City, Tennessee*
 
-[Rails Rookies Bootcamp: Blogger]()
+[Rails Rookies Bootcamp: Blogger](https://www.slideshare.net/NathanialMcConnell/rails-rookies-bootcamp-blogger)
 A crash course in Ruby on Rails development guiding the participants from zero-to-fully functional blogging app. Presented in association with the East Tennessee State University student chapter of the Association for Computing Machinery (ACM).
 
 ### Publications
