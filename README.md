@@ -284,7 +284,7 @@ A discussion of the skills necessary (beyond learning the language and framework
 *13 April 2013*  
 *Johnson City, Tennessee*
 
-[Rails Rookies Bootcamp: Blogger](https://www.slideshare.net/NathanialMcConnell/rails-rookies-bootcamp-blogger)
+[Rails Rookies Bootcamp: Blogger](https://www.slideshare.net/NathanialMcConnell/rails-rookies-bootcamp-blogger)  
 A crash course in Ruby on Rails development guiding the participants from zero-to-fully functional blogging app. Presented in association with the East Tennessee State University student chapter of the Association for Computing Machinery (ACM).
 
 ### Publications
